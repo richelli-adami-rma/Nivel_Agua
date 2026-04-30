@@ -15,3 +15,9 @@ Função que associa cada nível a uma cor específica.
 Impressão no terminal das mensagens com cores correspondentes.
 
 Restauração automática do estilo padrão após cada mensagem.
+
+Tecnologias utilizadas
+
+Python
+
+Colorama (para aplicar cores no terminal)
