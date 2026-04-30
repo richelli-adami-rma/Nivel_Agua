@@ -7,6 +7,7 @@ Exibir mensagens de alerta com cores distintas para cada nível.
 Demonstrar o uso da biblioteca colorama para destacar informações no terminal.
 
 Funcionalidades
+
 Lista com cinco níveis de alerta: Muito baixo, Baixo, Médio, Alto e Muito alto.
 
 Função que associa cada nível a uma cor específica.
