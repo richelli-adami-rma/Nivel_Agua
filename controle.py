@@ -34,4 +34,5 @@ for nivel in range(1, 6):
     cor = cor_por_nivel(nivel)
     mensagem = situacoes[nivel - 1]
     print(cor + f"Nível {nivel}: {mensagem}" + Style.RESET_ALL)
+    
 
